@@ -2,4 +2,4 @@
 
 At the Sailing Club in Skerries
 
-For payments, go [here](payments.html).
+For payments, go [here](payment.html).
